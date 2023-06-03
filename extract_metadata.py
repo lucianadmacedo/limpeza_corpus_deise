@@ -29,5 +29,5 @@ def extract_metadata(file_path):
             file.writelines(lines[len(metadata_lines):])
 
 # Example usage
-file_path = '/Users/lucianamacedo/Downloads/corpus_teste_limpeza/00440_ART.txt'
+file_path = '/Users/lucianamacedo/Downloads/corpus_teste_limpeza/*.txt'
 extract_metadata(file_path)
