@@ -1,0 +1,867 @@
+ORIGINAL ARTICLE
+
+Clinical efﬁcacy of chloroquine derivatives in COVID-19 infection:
+comparative meta-analysis between the big data and the real world
+
+M. Million1,2, P. Gautret1,3, P. Colson1,2, Y. Roussel1,2, G. Dubourg1,2, E. Chabriere1,2, S. Honore4,5, J.-M. Rolain1,2, F. Fenollar1,3,
+P.-E. Fournier1,3, J.-C. Lagier1,2, P. Parola1,3, P. Brouqui1,2 and D. Raoult1,2
+1) IHU-Méditerranée Infection, 2) Aix Marseille Université, IRD, AP-HM, MEPHI, 3) Aix Marseille Université, IRD, AP-HM, SSA, VITROME, 4) Service de
+Pharmacie, Hôpital Timone, AP-HM and 5) Laboratoire de Pharmacie Clinique, Aix Marseille Université, Marseille, France
+
+Abstract
+
+In the context of the current coronavirus disease 2019 (COVID-19) pandemic, we conducted a meta-analysis on the effects of chloroquine
+
+derivatives in patients, based on unpublished and published reports available publicly on the internet as of 27 May 2020. The keywords
+‘hydroxychloroquine’, ‘chloroquine’, ‘coronavirus’, ‘COVID-19’ and ‘SARS-Cov-2’ were used in the PubMed, Google Scholar and Google
+search engines without any restrictions as to date or language. Twenty studies were identiﬁed involving 105 040 patients (19 270 treated
+patients) from nine countries (Brazil, China, France, Iran, Saudi Arabia, South Korea, Spain and the USA). Big data observational studies
+were associated with conﬂict of interest,
+were associated with favourable outcomes and details on therapy. Among clinical studies, three of four randomized controlled trials
+reported a signiﬁcant favourable effect. Among clinical studies, a signiﬁcant favourable summary effect was observed for duration of
+−6) and
+cough (OR 0.19, p 0.00003), duration of fever (OR 0.11, p 0.039), clinical cure (OR 0.21, p 0.0495), death (OR 0.32, p 4.1 × 10
+viral shedding (OR 0.43, p 0.031). A trend for a favourable effect was noted for the outcome ‘death and/or intensive care unit transfer’
+(OR 0.29, p 0.069) with a point estimate remarkably similar to that observed for death (~0.3). In conclusion, a meta-analysis of publicly
+
+lack of treatment dosage and duration, and absence of favourable outcome. Clinical studies
+
+available clinical reports demonstrates that chloroquine derivatives are effective to improve clinical and virological outcomes, but, more
+importantly, they reduce mortality by a factor of 3 in patients with COVID-19. Big data are lacking basic treatment deﬁnitions and are
+linked to conﬂict of interest. The retraction of the only big data study associated with a signiﬁcantly deleterious effect the day after (June
+5, 2020) the acceptance of the present work (June 4, 2020) conﬁrms the relevance of this work.
+© 2020 The Author(s). Published by Elsevier Ltd.
+
+Keywords: Chloroquine, coronavirus, coronavirus disease 2019, hydroxychloroquine, meta-analysis, severe acute respiratory syndrome
+
+coronavirus 2
+
+Original Submission: 8 May 2020; Revised Submission: 28 May 2020; Accepted: 4 June 2020
+
+Article published online: 6 June 2020
+
+Corresponding author: D. Raoult, IHU—Méditerranée Infection,
+19–21 boulevard Jean Moulin, 13005, Marseille, France.
+E-mail: didier.raoult@gmail.com
+
+M. Million and P. Gautret are equal ﬁrst co-authors.
+
+Introduction
+
+In periods of large epidemics such as the current coronavirus
+disease 2019 (COVID-19) pandemic, information spreads very
+
+fast with different levels of reliability, including fake news, press
+In
+releases, preprints and peer-reviewed published reports.
+addition, it seems that there is a competition between low-cost
+generic medications that are potentially effective against severe
+acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and
+very expensive new drugs that are not yet approved, implying
+ﬁnancial and organizational
+issues, stakeholders expectations
+and administrative/policy complexity. This may lead to positions
+that are not driven only by science and public health.
+
+In this context, we aimed to conduct a meta-analysis on the
+effects of chloroquine derivatives (i.e. hydroxychloroquine
+(HCQ) or chloroquine) in individuals with COVID-19, based
+
+New Microbe and New Infect 2020; 38: 100709
+© 2020 The Author(s). Published by Elsevier Ltd
+This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+https://doi.org/10.1016/j.nmni.2020.100709
+
+2
+
+New Microbes and New Infections, Volume 38 Number C, November 2020
+
+NMNI
+
+on all available information from preprints and peer-reviewed
+published reports. For preprints, we asked two reviewers of
+our team to provide an open review of the content (see Sup-
+plementary material, Appendix S1) and we considered the
+comment of an external scientist [1]. We were surprised to
+ﬁnd major discrepancies between study conclusions ranging
+from dramatic clinical
+improvement to dramatic increase in
+mortality rates under chloroquine-derivative treatment. We
+sought to understand what could explain such differences. We
+recently discussed the fact that it does not make sense to
+investigate a summary effect when inconsistent studies and
+unexplained heterogeneity make the average effect difﬁcult to
+interpret and potentially misleading [2]. Hence, we ﬁrst inves-
+tigated the differential characteristics of studies showing a very
+favourable effect of the treatment and of studies showing a
+clearly deleterious effect.
+
+First, we found that a clear standardized protocol
+for
+treatment [3] and follow up was detailed in studies conducted
+by clinicians (clinical studies), whereas it was completely lacking
+in studies conducted by public-health experts on a large num-
+ber of patients whose data were extracted from electronic
+medical records (big data). We have already pointed out the
+limitations of these ‘big data’ analyses in relation to clinical in-
+accuracy [4].
+
+(early
+
+Adequate timing
+
+administration versus delayed
+administration), dosage, screening of contraindications, adjuvant
+measures and monitoring following standardized protocols are
+critical in the beneﬁt–risk ratio of any drug against infectious
+diseases [3]. Based on our 30 years of experience treating
+hundreds of patients with Q fever endocarditis and Whipple’s
+disease with HCQ 600 mg/day (200 mg three times per day)
+[5,6], we know that this drug is effective with negligible side
+effects when compared to the fatal outcome of both diseases.
+Chloroquine derivatives (and paracetamol) can be used to
+commit suicide with overdose [7] and may be fatal, at thera-
+peutic dosage, when contraindications and adjuvant measures
+are not carefully followed. In this context, it is expected that
+studies using double-dose HCQ (1200 mg/day) in COVID-19
+would be associated with toxicity [8]. Accordingly, we investi-
+gated whether a well-described treatment protocol, including
+dosage, for at least 48 hours was associated with an improved
+outcome.
+
+From our seminal study [9], we observed an improved efﬁ-
+cacy of the combination of HCQ and azithromycin when
+compared with HCQ alone. A synergistic effect was conﬁrmed
+by in vitro studies [10]. This led us to change our standardized
+protocol by shifting from a mono-therapy to a combined
+therapy. This combination could not be neglected in the
+treatment of COVID-19 and was therefore also analysed in the
+present study.
+
+In the context of a pandemic with an unknown virus,
+development of new drugs is a major opportunity for ‘big
+pharma’ industry, and this is potentially associated with a very
+high risk of conﬂicts of interest. This led us to consider these
+conﬂicts of interest as a moderator variable in the present
+work. As major ﬁnancial issues are at stake, and may impact the
+interpretation of scientiﬁc data, we felt it was important to
+mention that none of us have conﬂict of
+interest with any
+pharmaceutical company.
+
+We performed this meta-analysis taking into account three
+important moderator variables: clinical studies or studies based
+on electronic registry data analysis (big data), studies based on a
+mono-therapy (chloroquine derivatives) or a combined therapy
+(HCQ with azithromycin), and ﬁnally studies where authors
+had potential conﬂicts of interest and where authors had no
+conﬂicts of interest. In the context of the current pandemic,
+providing a timely and critical analysis of available data on this
+topic seems appropriate to us, from a public-health perspective.
+
+Methods
+
+We conducted a meta-analysis of studies evaluating the effects
+of chloroquine derivatives against SARS-CoV-2 in groups of
+patients with COVID-19 as compared with control groups of
+patients who did not receive chloroquine derivatives. In these
+studies, groups were expected to be similar with respect to
+demographics, chronic conditions, clinical presentation at
+enrolment and use of other antiviral drugs during the course of
+the disease. The keywords ‘hydroxychloroquine’, ‘chloroquine’,
+‘coronavirus’, ‘COVID-19’ and ‘SARS-Cov-2’ were used in the
+PubMed, Google Scholar and Google search engines without
+any restrictions as to date or language. Preprints were also
+included. Open reviews and reviewer’s recommendations
+regarding preprints are available in the Supplementary material
+(Appendix S1). Articles published in peer-reviewed journals,
+preprints and articles available on the internet, even when not
+published on ofﬁcial websites, were included.
+
+The following outcomes were considered: hospitalization
+rate, duration of cough, duration of
+fever, clinical cure,
+lymphocyte count, C-reactive protein level, interleukin-6 level,
+thoracic CT scan, worsening to severe symptoms, death,
+length of
+transfer to intensive care unit (ICU), ventilation,
+hospital stay and persistent viral shedding as assessed by PCR.
+Only studies in which a group of COVID19 patients treated
+with a chloroquine derivative were compared with a control
+group without chloroquine derivatives were included. Non-
+comparative (single-arm) studies and studies comparing two
+groups treated with chloroquine derivatives at different dosages
+or with different delays of treatment were excluded.
+
+© 2020 The Author(s). Published by Elsevier Ltd, NMNI, 38, 100709
+This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+NMNI
+
+Million et al. Efﬁcacy of chloroquine derivatives for COVID-19 in the real world
+
+3
+
+Studies were classiﬁed as ‘big data’ studies when conducted
+on electronic medical records extracted by public-health spe-
+cialists and epidemiologists who did not care for COVID-19
+patients themselves. Conversely, studies were classiﬁed as
+‘clinical studies’ when they mentioned details of treatments (e.g.
+dosages, duration, contraindications, monitoring) and where
+the authors were physicians (infectious diseases and internal
+medicine specialists, and pulmonologists) who cared for
+COVID-19 patients themselves. Conﬂicts of
+interest were
+retrieved from author statements in the article. Another check
+was performed using the Euros for Docs (https://www.
+(https://projects.
+eurosfordocs.fr/)
+propublica.org/docdollars/) websites. We considered that
+there was a conﬂict of interest when funding by the pharma-
+ceutical industry exceeded V50 000 over 7 years.
+
+and Dollars
+
+for Docs
+
+Studies were classiﬁed as ‘Pro’, when at least one compari-
+son reported a signiﬁcant improvement, and none was associ-
+ated with a signiﬁcant deleterious effect in the treated group.
+Studies were classiﬁed as ‘Con’ when none of the comparisons
+reported a signiﬁcant favourable outcome and/or at least one
+comparison reported a signiﬁcant deleterious outcome.
+
+The meta-analysis was performed with a randomized model
+using COMPREHENSIVE META-ANALYSIS v3 (Biostat, Englewood, NJ,
+USA) as recommended by Borenstein et al. [11]. This software
+made it possible to include dichotomous outcomes (number of
+events out of the total) and quantitative outcomes (mean in
+each group, sample size, p-value). Heterogeneity was consid-
+ered substantial when I2 >50%. A p-value <0.05 was considered
+signiﬁcant. A heat map analysis was performed to test a possible
+clustering between Pro and Con studies, clinical and big data
+study design, well-described treatment protocol and not
+described treatment protocol, and conﬂict of interest and no
+conﬂict of interest, using XLSTAT v2020.2.2 (Addinsoft, Paris,
+France).
+
+Results
+
+Twenty-three comparative studies were screened. Three
+studies were excluded because they compared two groups
+treated with a chloroquine derivative (high versus low dose [8]
+and combination therapy with or without zinc [13]). As a result,
+20 studies were identiﬁed involving 105 040 individuals (19 270
+patients treated with a chloroquine derivative, including 11 247
+in combination with a macrolide) from nine countries (Brazil,
+China, France, Iran, Saudi Arabia, South Korea, Spain and the
+USA) (see Supplementary material, Table S1). The 20 studies
+included eight published papers, nine preprints published on
+MedRxiv, one preprint published on preprints.org and two
+(uniform resource locator (url)
+available on the internet
+
+provided in the Supplementary material, Table S2). All but two
+papers, in Chinese [14] and French [15], were written in En-
+glish. The Chinese study [14] was translated and included.
+
+We noted that registry studies based on electronic medical
+records did not mention the dosage or included several dosages
+of the chloroquine derivatives used [16–20]. We found that in
+several studies, patients used several molecules with established
+or potential antiviral properties. For instance, in China and Iran
+almost all patients used multiple antivirals: lopinavir/ritonavir,
+oseltamivir, entecavir, ribavirin, umifenovir and nebulization of
+interferon aerosol. In eight studies [15,18–24] patients were
+given the combined therapy that we have recommended (HCQ
+randomized
+and
+controlled trials
+analysis
+[14,25–27].
+
+(RCTs) were included in this
+
+azithromycin
+
+combination
+
+Four
+
+[9]).
+
+We observed major methodological pitfalls in some studies.
+Lymphopenia, a marker of severity [28], was signiﬁcantly more
+frequent in the treated group in one study [17]. In another
+study, eight patients received HCQ in the ‘untreated’ group
+[29]. In this study, none of the 15 patients treated with com-
+bined therapy (HCQ + azithromycin) died or were transferred
+to the ICU, and the difference was signiﬁcant with the un-
+treated control group. Strikingly, this was not analysed because
+it was not prespeciﬁed in the study protocol. In another work
+[27], all results reporting a favourable effect of HCQ in the ﬁrst
+version of the preprint [30] on alleviation of symptoms and C-
+reactive protein were removed in the ﬁnal preprint version
+[27] and in the published version of the article [31]. Finally, the
+largest study that has been carried out [18] is impossible to
+analyse because there is no notiﬁcation of hospital sources or
+referral to any physician. It is not known if the authors of this
+study saw a single patient infected with SARS-CoV-2.
+
+Big data and clinical studies were perfectly
+discriminated by unsupervised clustering
+As we observed that several studies reported a clear favourable
+effect [15,21–23,25,26,30,32–35] but others reported no ef-
+fect [14,16,17,19,24,29] or a clear deleterious effect [18], we
+analysis
+primarily performed an unsupervised clustering
+including the following variables: ‘Pro’/‘Con’ studies, ‘big data’
+versus ‘clinical studies’, ‘detailed’ or ‘absence of detailed treat-
+ment’, presence or absence of a conﬂict of interest (Fig. 1).
+
+In this unsupervised analysis, only the variable ‘big data’
+versus ‘clinical’ studies yielded to a perfect clustering. All other
+variables (conﬂict of interest, Pro/Con, detailed treatment) did
+not provide a perfect clustering. We subsequently investigate
+whether each of these parameters was signiﬁcantly associated
+with favourable or unfavourable effect.
+
+All ‘big data’ studies reported a lack of beneﬁcial effect of the
+treatment and were signiﬁcantly more likely to be associated
+© 2020 The Author(s). Published by Elsevier Ltd, NMNI, 38, 100709
+This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+4
+
+New Microbes and New Infections, Volume 38 Number C, November 2020
+
+NMNI
+
+FIG. 1. Unsupervised analysis showing an association between big data studies, inaccurate treatment protocol, conﬂict of interest and absence of
+beneﬁcial effect of chloroquine derivative. RCT, randomized controlled trial (hatched lines); Pro, study reporting a favourable effect of chloroquine
+
+derivative; Con, study that reports no effect or deleterious effect; Clinical, study performed by physician who takes care of patients; Big data, study
+
+performed by specialists in data analysis who do not take care of patients; Detailed treatment, therapeutic protocol detailed in the method with dosage
+for 48 hours before outcome assessment. Three among four RCTs found a beneﬁcial effect.
+
+with ‘Con’ variable (5/5 versus 3/15, p 0.004). This was also
+observed by examination of the meta-analysis forest plot (Fig. 2,
+see Supplementary material, Tables S3 to S8). In addition, both
+‘conﬂicts of
+interest’ (p 0.01) and ‘not described treatment
+protocol’ variables (p 0.004) were associated with the ‘Con’
+variable. Conversely, clinical studies were more likely to report a
+favourable effect of chloroquine derivatives in individuals with
+COVID-19 (p < 0.05). Consistently, clinical studies with detailed
+treatment protocol were more likely to be associated with the
+observation of a favourable effect of the treatment (p < 0.05).
+
+Conﬂicts of interests are linked to part of the biases in
+favour of Con
+We found four studies with author conﬂicts of interest (Fig. 1;
+see Supplementary material, Table S1). The ‘Conﬂicts of in-
+terest’ variable was associated with big data studies (3/5 versus
+1/15, p < 0.05) and had a negative direction of treatment effect
+(p < 0.05, Fig. 1).
+
+Direct care of patients (clinical versus big data) explains
+the direction of effect
+We primarily tested if the studies involving direct care of pa-
+tients (clinical studies performed by physicians who took care
+of patients) were associated with a different direction of effect
+compared with ‘big data’ studies (Fig. 2). The visual examination
+of the forest plot clearly showed that ‘big data’ studies reported
+no effect [16,17,19,20] or deleterious effect [18]. In contrast,
+several clinical studies reported signiﬁcant favourable effects,
+notably regarding hospitalization rate [21], duration of fever
+[25,33], duration of cough [23,25], clinical cure [15,30], C-
+reactive protein levels [30], interleukin-6 levels [35], thoracic
+CT-imaging [25], length of hospital stay [23,26], death or ICU
+transfer [22,32], death [34,35] and persistent viral shedding
+[9,23,33].
+
+We compared the proportion of comparisons reporting
+signiﬁcant differences according to treatment. In the big data
+analyses, four comparisons reported a signiﬁcant effect, and all
+
+© 2020 The Author(s). Published by Elsevier Ltd, NMNI, 38, 100709
+This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+NMNI
+
+Million et al. Efﬁcacy of chloroquine derivatives for COVID-19 in the real world
+
+5
+
+FIG. 2. Forest plot of meta-analysis on the effect of chloroquine derivatives in COVID-19 patients. ICU,
+
+intensive care unit; HCQ, hydroxy-
+
+chloroquine; CQ, chloroquine; AZ, azithromycin; RCT, randomized controlled trial; (H)CQ, chloroquine derivatives (hydroxychloroquine (HCQ) or
+
+chloroquine (CQ)).
+
+were deleterious. In the clinical studies, 17 comparisons re-
+ported a signiﬁcant effect, and all were beneﬁcial. The difference
+was highly signiﬁcant (4/4 versus 0/17, Bilateral Mid-P exact test,
+p 0.00016). This was also supported by the signiﬁcant hetero-
+geneity between the two subgroups (big data versus clinical
+studies, mixed effect analysis, Q-value 51.8, p < 0.001).
+
+Three of four RCTs reported a signiﬁcant favourable
+effect
+Four RCTs were included [14,25–27,30,31]. All were per-
+formed in China. Three of them reported signiﬁcant favourable
+effects. Chen Z et al. [25] reported a signiﬁcant favourable ef-
+fect on duration of fever, duration of cough and thoracic CT
+imaging. Huang et al. reported a signiﬁcant reduction of length
+of hospital stay (26). Interestingly, Tang et al. [27] reported in
+the ﬁrst version of their preprint [30] a signiﬁcant favourable
+effect on alleviation of symptoms (post hoc analysis) and C-
+reactive protein reduction (subgroup with baseline increased
+C-reactive protein), but these results were removed in the ﬁnal
+[27,31]. This was
+the manuscript
+published version of
+
+they were concerned about
+
+requested by editors and reviewers from the British Medical
+Journal (open review) where the ﬁnal version was published
+because this was not prespeciﬁed in the study protocol. In
+the justiﬁcation of
+addition,
+including these secondary outcomes results and post hoc
+analysis from under-powered sample size (due to early termi-
+nation). This is surprising because a lack of power may be
+associated with a risk of not ﬁnding a difference when there is
+one, but not with a risk of ﬁnding a difference when there is
+none. None of these RCTs reported a signiﬁcant deleterious
+effect.
+
+Effect of chloroquine derivatives without azithromycin
+As several studies addressed the effectiveness of the combi-
+nation of chloroquine derivatives with a macrolide, speciﬁcally
+azithromycin, we tested whether the favourable clinical effect
+(observed in clinical studies) remained after exclusion of com-
+parisons with combination therapy (see Supplementary mate-
+rial, Fig. S1). A favourable effect was still observed for duration
+of cough (n = 1, point estimate 0.12, p 0.001), duration of fever
+© 2020 The Author(s). Published by Elsevier Ltd, NMNI, 38, 100709
+This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+6
+
+New Microbes and New Infections, Volume 38 Number C, November 2020
+
+NMNI
+
+(n = 2, point estimate 0.05, p 0.002), clinical cure (n = 2, point
+estimate 0.48, p 0.022), C-reactive protein levels (n = 1, point
+estimate 0.55, p 0.045), interleukin-6 levels (n = 1, point esti-
+mate 0.43, p 0.002) and death (n = 3, point estimate 0.31,
+Interestingly, the effect was not signiﬁcant for
+p < 0.001).
+persistent viral shedding (n = 7, point estimate 0.51, 95% CI
+0.20–1.33, p 0.17).
+
+Outcomes with a signiﬁcant summary effect in clinical
+studies
+We found a favourable summary effect on duration of cough (n = 2,
+point estimate 0.19, 95% CI 0.09–0.42, p 0.00003; I2 = 0%),
+duration of fever (n = 3, point estimate 0.11, 95% CI 0.01–0.90, p
+0.039; I2 = 91%, p < 0.001), clinical cure (n = 3, point estimate 0.21,
+95% CI 0.05–1.0, p 0.0495; I2 = 81%, p < 0.001) and death (n = 4,
+−6; I2 = 0%, p 0.71;
+point estimate 0.32, 95% CI 0.19–0.52, p 4.1 × 10
+see Supplementary material, Table S9). A trend for the outcome
+‘death or ICU transfer’ was also noted (n = 3, point estimate 0.29,
+95% CI 0.08–1.10, p 0.069; I2 = 85%, p < 0.002) with a point es-
+timate very similar to that observed for the death outcome (0.3,
+e.g. a three-fold decrease in the risk of ICU transfer and/or death).
+For persistent viral shedding, ten comparisons were included with
+a signiﬁcant favourable effect on persistent viral shedding (n = 10,
+point estimate 0.43, 95% CI 0.20–0.92, p 0.031;
+I2 = 75%,
+p < 0.001).
+
+Discussion
+
+Chloroquine derivatives present a paradox. On the one hand,
+the heterogeneity of patients and treatment schemes makes it
+difﬁcult to obtain a clear picture while the epidemic is still
+ongoing. On the other hand, despite controversy, only chlo-
+roquine derivatives have been used by physicians on a large-
+scale basis as a treatment for COVID-19 [36]. According to
+the Sermo Real Time Covid-19 Barometer (https://www.
+sermo.com/, consulted 27 May), for over 20 000 physicians
+across 30 countries, chloroquine derivatives are the ﬁrst
+medication used to treat COVID-19 patients in ICUs (43%;
+except oxygen,
+and
+norepinephrine) and in other hospital settings (52%; except
+oxygen), and the second in outpatient settings (33%, after AZ
+and similar antibiotics).
+
+anti-clotting/anticoagulants,
+
+steroids
+
+clinical studies used a standardized treatment protocol with
+methods that included assessment of contraindications, daily
+dosage, adjuvant measures and duration of treatment with at
+least 48 hours of treatment before the objective could be
+assessed. For example, assessment of kalaemia and electrocar-
+diogram is critical before treatment, especially when the chlo-
+roquine derivative is combined with azithromycin [37]. At the
+same time, we observed that virtual big data studies did not
+mention these elements and considered the presence of chlo-
+roquine derivative prescription in electronic records in a binary
+fashion. Obviously, the number of patients included in the
+database analyses was much higher than the number of patients
+included in the clinical studies, because these databases are
+made up of
+thousands of electronic medical records. As
+mentioned in the past [4], this type of study has tremendous
+statistical power but is limited by clinical inaccuracy that makes
+their conclusions difﬁcult to believe.
+
+We cannot believe that in some series up to 8% of deaths are
+due to cardiac rhythm disorders [18], whereas all the elec-
+trocardiograms performed in the IHU (our centre) for 4000
+patients and analysed by a team of cardiologists specializing in
+heart rhythms have not seen any, except for an increase in
+QTc, which justiﬁed stopping treatment in only three in-
+dividuals [38]. Under these conditions we thought that people
+who really observed the patients had a very different percep-
+tion of the results from people who had not observed the
+patients but retained observations. The major elements of this
+study are that, overall, there is an extremely signiﬁcant differ-
+ence between the analyses of data not collected directly by the
+doctors who cared for the patients and the studies carried out
+by the physicians who set up these studies and cared for pa-
+tients, including the randomized studies. The second thing is
+that in the studies conducted electronically, the treatment is
+never really speciﬁed, with the dosage and duration of treat-
+ment making it impossible to assess efﬁcacy (dose too low) or
+toxicity (dose too high). In addition to this major bias, we also
+noted a signiﬁcant bias when the authors had conﬂicts of in-
+terest due to their relationship with industrialists trying to
+framework
+market molecules
+competing with HCQ.
+
+in the same therapeutic
+
+For discrepancies in published data, favourable evidence for
+chloroquine derivatives is sometimes censored by the journal
+(open review of Tang’s randomized controlled trial, published
+in the British Medical
+Journal [27,30,31]). For the article by
+Mahevas et al. [29], one of us (DR) had contact with one of the
+authors (B Godeau), who told him that it was the methodol-
+ogist (P Ravaud) who did not want to carry out the statistical
+tests demonstrating the superiority of dual therapy over the
+control group (death or transfer to ICU, 0/15 versus 16/63,
+bilateral Mid-P exact test p = 0.02).
+
+Indeed, we were challenged by the major discrepancies be-
+tween the results of the various published studies and our
+experience at the IHU, where 7800 electrocardiograms were
+performed in 4000 patients. To understand which elements
+could lead to contradictory results, we compared the results of
+studies carried out by clinicians (real world) and those carried
+out by database analysts (virtual world of big data – Fig. 1). The
+© 2020 The Author(s). Published by Elsevier Ltd, NMNI, 38, 100709
+This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+NMNI
+
+Million et al. Efﬁcacy of chloroquine derivatives for COVID-19 in the real world
+
+7
+
+Overall, and as previously published, the relevance of the
+analysis of important medical data depends on clinical accuracy
+[4]. Indeed, the discrepancy between clinicians and epidemiol-
+ogists reﬂects a major trend, that of the analysis of large medical
+data, with a database warehouse more or less well ﬁlled by
+individuals who are not directly included in the work reported.
+This analysis is unrelated to the observations made by physi-
+cians who are in direct contact with patients, and which lead to
+divergent interpretations and opposite conclusions, which are
+of real
+interest and show that the world predicted by Bau-
+drillard [39]—a parallel world of numerical analysis completely
+disconnected from reality—is being born.
+
+Under these conditions, a meta-analysis allowing for the
+combination of different studies makes it possible to identify a
+general trend. This makes it possible to reconcile the chlo-
+roquine derivative efﬁcacy that many doctors have perceived
+with the results of the ﬁrst published studies. This meta-
+analysis is based on several studies, including four RCTs, and
+identiﬁes a favourable trend toward the beneﬁt of chloroquine
+derivatives in the treatment of individuals with COVID-19,
+enabling us to make a grade I recommendation for its use
+against the disease. The retraction of the only big data study
+associated with a signiﬁcantly deleterious effect the day after
+(June 5, 2020) the acceptance of the present work (June 4,
+2020) conﬁrms the relevance of this work.
+
+Funding
+
+This work was funded by ANR-15-CE36-0004-01 and by ANR
+Investissements d’avenir, Méditerranée infection10-IAHU-03, and
+was also supported by Région Provence-Alpes-Côte d’Azur.
+This work had received ﬁnancial support from the Mediterra-
+nean Infection Foundation.
+
+Declaration of competing interest
+
+The authors declare no competing interests. Funding sources
+had no role in the design and conduct of the study; collection,
+management, analysis and interpretation of
+the data; and
+preparation, review or approval of the manuscript. Our group
+used widely available generic drugs distributed by many phar-
+maceutical companies.
+
+Acknowledgements
+
+We thank Christian Devaux for helpful interactions and Fanyu
+Huang for Chinese to English translation of the study by Chen J
+et al. [14].
+
+Appendix A. Supplementary data
+
+Supplementary data to this article can be found online at https://
+doi.org/10.1016/j.nmni.2020.100709.
+
+References
+
+[1] Muchielli L. Le blog de Laurent Mucchielli. Available at: https://blogs.
+
+mediapart.fr/laurent-mucchielli/blog. [Accessed 23 May 2020].
+
+[2] Lagier JC, Million M, Raoult D. Bouillabaisse or ﬁsh soup: the limita-
+tions of meta-analysis confronted to the inconsistency of fecal micro-
+biota transplantation studies. Clin Infect Dis 2020 May 23;70(11):2454.
+https://doi.org/10.1093/cid/ciz707.
+
+[3] Lagier JC, Aubry C, Delord M, Michelet P, Tissot-Dupont H, Million M,
+et al. From expert protocols to standardized management of infectious
+diseases. Clin Infect Dis 2017;65(Suppl. 1):S12–9.
+
+[4] Million M, Raoult D. Relevance of medical big data analysis depends on
+clinical accuracy: the Q fever paradigm. Clin Infect Dis 2019;68:169–70.
+[5] Melenotte C, Protopopescu C, Million M, Edouard S, Carrieri MP,
+Eldin C, et al. Clinical features and complications of Coxiella burnetii
+infections from the French National Reference Center for Q fever.
+JAMA Netw Open 2018;1(4):e181580.
+
+[6] Lagier JC, Fenollar F, Lepidi H, Roch G, Million M, Raoult D. Treatment
+of classic Whipple’s disease: from in vitro results to clinical outcome.
+J Antimicrob Chemother 2014;69:219–27.
+
+[7] Yanturali S, Aksay E, Demir OF, Atilla R. Massive hydroxychloroquine
+
+overdose. Acta Anaesthesiol Scand 2004;48:379–81.
+
+[8] Borba MGS, Val FFA, Sampaio VS, Alexandre MAA, Melo GC,
+Brito M, et al. CloroCovid-19 Team. Effect of high vs low doses of
+chloroquine diphosphate as adjunctive therapy for patients hospi-
+talized with severe acute respiratory syndrome coronavirus 2 (SARS-
+CoV-2) infection: a randomized clinical trial. JAMA Netw Open 2020
+24 April;3(4):e208857. https://doi.org/10.1001/jamanetworkopen.
+2020.8857.
+
+[9] Gautret P, Lagier JC, Parola P, Hoang VT, Meddeb L, Mailhe M, et al.
+Hydroxychloroquine and azithromycin as a treatment of COVID-19:
+results of an open-label non-randomized clinical trial [published on-
+line ahead of print, 2020 Mar 20].
+Int J Antimicrob Agents 2020:
+105949. https://doi.org/10.1016/j.ijantimicag.2020.105949.
+
+[10] Andreani J, Le Bideau M, Duﬂot I, Jardot P, Rolland C, Boxberger M,
+et al.
+In vitro testing of combined hydroxychloroquine and azi-
+thromycin on SARS-CoV-2 shows synergistic effect. Microb Pathog
+2020;145:104228. https://doi.org/10.1016/j.micpath.2020.104228.
+[11] Borenstein M, Hedges LV, Higgins JPT, Rothstein HR. Introduction to
+meta-analysis. Chichester: John Wiley & Sons, Ltd; 2009. https://doi.
+org/10.1002/9780470743386.
+
+[13] Carlucci P, Ahuja T, Petrilli CM, Rajagopalan H, Jones S, Rahimian J.
+vs hydroxy-
+Hydroxychloroquine
+chloroquine and azithromycin alone: outcomes
+in hospitalized
+COVID-19 patients. medRxiv 2020. https://doi.org/10.1101/2020.05.
+02.20080036.
+
+and azithromycin plus
+
+zinc
+
+[14] Chen J, Liu D, Liu L, Liu P, Xu Q, Xia L, et al. Zhejiang Da Xue Xue Bao
+Yi Xue Ban 2020; 2020;49:215–9. https://doi.org/10.3785/j.issn.1008-
+9292.2020.03.03.
+
+[15] Guerin V, Lardenois T, Levy P, Regensberg de Andreis N, Sarrazin E,
+Thomas JL, et al. Covid-19: étude rétrospective chez 88 sujets avec 3
+approches thérapeutiques différentes (traitement symptomatique/azi-
+thromycine/azithromycine + hydroxychloroquine). Rapport d’expér-
+ience de médecins de terrain Recommandations diagnostiques et
+thérapeutiques à l’usage de leurs consoeurs et confrères. Available
+https://stopcovid19.today/wp-content/uploads/2020/04/
+online
+
+at:
+
+© 2020 The Author(s). Published by Elsevier Ltd, NMNI, 38, 100709
+This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+8
+
+New Microbes and New Infections, Volume 38 Number C, November 2020
+
+NMNI
+
+COVID_19_RAPPORT_ETUDE_RETROSPECTIVE_CLINIQUE_ET_
+THERAPEUTIQUE_200430.pdf.
+
+controlled trial. medRxiv 2020. https://doi.org/10.1101/2020.04.10.
+20060558.
+
+[16] Geleris J, Sun Y, Platt J, Zucker J, Baldwin M, Hripcsak G, et al.
+Observational study of hydroxychloroquine in hospitalized patients
+with Covid-19. N Engl J Med 2020;382(25):2411–8. https://doi.org/10.
+1056/NEJMoa2012410.
+
+[17] Magagnoli
+
+J, Narendran S, Pereira F, Cummings T, Hardin JW,
+Sutton SS, Ambati J. Outcomes of hydroxychloroquine usage in United
+States veterans hospitalized with Covid-19. medRxiv 2020. https://doi.
+org/10.1101/2020.04.16.20065920.
+
+[18] Mehra RM, Desai SS, Ruschitzka F, Patel AN. Hydroxychloroquine or
+chloroquine with or without a macrolide for treatment of COVID-19:
+a multinational registry analysis. Lancet. Published online 22 May 2020,
+https://doi.org/10.1016/S0140-6736(20)31180-6.
+
+[19] Singh S, Ahmad Khan A, Monica Chowdhry M, Arka Chatterjee A.
+Outcomes of hydroxychloroquine treatment among hospitalized
+COVID-19 patients in the United States—real-world evidence from a
+federated electronic medical record network. medRxiv 2020. https://
+doi.org/10.1101/2020.05.12.20099028.
+
+[20] Rosenberg ES, Dufort EM, Udo T, Wilberschied LA, Kumar J,
+Tesoriero J, et al. Association of treatment with hydroxychloroquine
+or azithromycin with in-Hospital mortality in patients with COVID-19
+in New York State. JAMA 2020;323(24):2493–502. https://doi.org/10.
+1001/jama.2020.8630.
+
+[21] Barbosa Esper R, Souza da Silva R, Teiichi Costa Oikawa F, Machado
+Castro M, Razuk-Filho A, Benedito Batista Junior P, et al. Empirical
+treatment with hydroxychloroquine and azithromycin for suspected
+cases of COVID-19 followed-up by telemedicine. Available at: https://
+www.dropbox.com/s/5qm58cd4fneeci2/2020.04.15%20journal%
+20manuscript%20ﬁnal.pdf?dl=0.
+
+[22] Davido B, Lansaman T, Bessis S. Hydroxychloroquine plus azi-
+thromycin: a potential interest in reducing in-hospital morbidity due to
+COVID-19 pneumonia (HI-ZY-COVID)?. Posted 11 May 2020, https://
+www.medrxiv.org/content/10.1101/2020.05.05.20088757v1.
+
+[23] Shabrawishi MH, Naser AY, Alwaﬁ H, Aldobyany AM, Touman AA.
+Negative nasopharyngeal SARS-CoV-2 PCR conversion in Response to
+different therapeutic interventions. medRxiv 2020. https://doi.org/10.
+1101/2020.05.08.20095679.
+
+[24] Shabrawishi MH, Naser AY, Aldobyany AM. Negative nasopharyngeal
+SARS-CoV-2 PCR conversion in Response to different therapeutic
+interventions. 11 May 2020. https://www.medrxiv.org/content/10.
+1101/2020.05.08.20095679v1.
+
+[25] Chen Z, Hu J, Zhang Z, Jiang S, Han S, Yan D, et al. Efﬁcacy of
+hydroxychloroquine in patients with COVID-19: results of a ran-
+domized clinical trial. medRxiv 2020. https://doi.org/10.1101/2020.03.
+22.20040758.
+
+[26] Huang M, Tang T, Pang P, Li M, Ma R, Ju J, et al. Treating COVID-19
+with chloroquine. J Mol Cell Biol 2020;12(4):322–5. https://doi.org/10.
+1093/jmcb/mjaa014.
+
+[27] Tang W, Cao Z, Han M, Wang Z, Chen J, Sun W, et al. Hydroxy-
+chloroquine in patients with COVID-19: an open-label, randomized,
+
+[28] Tan L, Wang Q, Zhang D, Ding J, Huang Q, Tang YQ, et al. Lym-
+phopenia predicts disease severity of COVID-19: a descriptive and
+predictive study. Signal Transduct Target Ther 2020;5:33. https://doi.
+org/10.1038/s41392-020-0148-4.
+
+[29] Mahevas M, Tran VT, Roumier M, Chabrol A, Paule R, Guillaud C,
+et al. No evidence of clinical efﬁcacy of hydroxychloroquine in pa-
+tients hospitalized for COVID-19 infection with oxygen require-
+ment: results of a study using routinely collected data to emulate a
+trial. medRxiv 2020. https://doi.org/10.1101/2020.04.10.
+target
+20060699.
+
+[30] Tang W, Cao Z, Han M, Wang Z, Chen J, Sun W, et al. Hydroxy-
+chloroquine in patients with COVID-19: an open-label, randomized,
+controlled trial. medRxiv 2020. https://doi.org/10.1101/2020.04.10.
+20060558. version 1.
+
+[31] Tang W, Cao Z, Han M, Wang Z, Chen J, Sun W, et al. Hydroxy-
+chloroquine in patients with mainly mild to moderate coronavirus
+disease 2019: open label, randomised controlled trial. BMJ 2020;69:
+m1849. https://doi.org/10.1136/bmj.m1849.
+
+[32] Ashraf AA, Shokouhi N, Shirali E, Davari-tanha F, Memar O,
+Kamalipour A, et al. COVID-19 in Iran, a comprehensive investigation
+from exposure to treatment outcomes. medRxiv 2020. https://doi.org/
+10.1101/2020.04.20.20072421.
+
+[33] Huang M, Li M, Xiao F, Liang J, Pang P, Tang T, et al. Preliminary ev-
+idence from a multicenter prospective observational study of the
+safety and efﬁcacy of chloroquine for the treatment of COVID-19.
+medRxiv 2020. https://doi.org/10.1101/2020.04.26.20081059.
+
+[34] Membrillo de Novales FJ, Ramírez-Olivencia G, Estébanez M, de
+Dios B, Herrero MD, Mata T, et al. Early hydroxychloroquine is
+in COVID-19 patients: An
+associated with an increase of survival
+observational study. Preprints 2020:2020050057. https://doi.org/10.
+20944/preprints202005.0057.v1.
+
+[35] Yu B, Wang W, Li C. Hydroxychloroquine application is associated
+with a decreased mortality in critically ill patients with COVID-19.
+medRxiv 2020. https://doi.org/10.1101/2020.04.27.20073379.
+
+[36] Colson P, Rolain JM, Lagier JC, Brouqui P, Raoult D. Chloroquine and
+hydroxychloroquine as available weapons to ﬁght COVID-19. Int J
+Antimicrob Agents 2020;55(4):105932. https://doi.org/10.1016/j.ijanti-
+micag.2020.105932.
+
+[37] Million M, Lagier JC, Gautret P, Colson P, Fournier PE, Amrane S, et al.
+Early treatment of COVID-19 patients with hydroxychloroquine and
+azithromycin: A retrospective analysis of 1061 cases in Marseille,
+France. Travel Med Infect Dis 2020;35:101738. https://doi.org/10.
+1016/j.tmaid.2020.101738.
+
+[38] Lagier JC, Million M, Gautret P, Colson P, Cortaredona S, Giraud-
+Gatineau A, et al. Outcomes of 3,737 COVID-19 patients treated with
+hydroxychloroquine/azithromycin and other regimens in Marseille,
+France: A retrospective analysis. Travel Med Infect Dis 2020;36:
+101791. https://doi.org/10.1016/j.tmaid.2020.101791.
+
+[39] Baudrillard J. Simulacres et Simulation. Paris. Editions Galilée; 1981.
+
+© 2020 The Author(s). Published by Elsevier Ltd, NMNI, 38, 100709
+This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+
